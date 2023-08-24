@@ -1,0 +1,11 @@
+{
+    "count": "{count, plural, =0{Nav pievienotu punktu} =1{1 punkts} other{{count} punkti}}",
+    "@count": {
+        "placeholders": {
+            "count": {
+                "type": "num",
+                "format": "compact"
+            }
+        }
+    }
+}

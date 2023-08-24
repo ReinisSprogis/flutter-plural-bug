@@ -1,0 +1,11 @@
+{
+    "count": "{count, plural, =0{No pointo espaniollo} =1{1 uno pointo} other{{count} muchas pointos}}",
+    "@count": {
+        "placeholders": {
+            "count": {
+                "type": "num",
+                "format": "compact"
+            }
+        }
+    }
+}

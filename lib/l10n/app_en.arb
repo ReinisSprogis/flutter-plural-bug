@@ -1,0 +1,12 @@
+{
+    "count": "{count, plural, =0{No points added} =1{1 point} other{{count} points}}",
+    "@count": {
+        "description": "Count of the data points added.",
+        "placeholders": {
+            "count": {
+                "type": "num",
+                "format": "compact"
+            }
+        }
+    }
+}

@@ -1,1 +1,1 @@
-Bug report for the following problem:
+When the device language is set to Latvian, the plural strings are not handled correctly. For example, the string for the count "10" should be "10 punkti," but it incorrectly returns "No points added."
